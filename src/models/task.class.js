@@ -1,5 +1,6 @@
 import { levels } from "./levels.enum";
 
+/* Esto es la clase tarea, que tiene un constructor */
 
 export class task{
     name='';
